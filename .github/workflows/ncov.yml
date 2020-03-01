@@ -6,24 +6,25 @@ on:
 
 jobs:
   build:
-  runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
-  steps:
-    - name: checkout
-      uses: actions/checkout@master
-    - name: r-setup
-      uses: r-lib/actions/setup-r@v1
-    - name: get_ncov
-      run: |
-        Rscript get_ncov.R
-    - name: commit
-      run: |
-        git config --global user.email "yiluheihei@gmail.com"
-        git config --global user.name "yiluheihei"
-        git add .; git commit -m 'update'
-    - name: push
-      uses: ad-m/github-push-action@v0.5.0
-      with:
-        # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+      - name: r-setup
+        uses: r-lib/actions/setup-r@v1
+      - name: get_ncov
+        run: |
+          Rscript get_ncov.R
+      - name: commit
+        run: |
+          git config --global user.email "yiluheihei@gmail.com"
+          git config --global user.name "yiluheihei"
+          git add .
+          git commit -m 'update'
+      - name: push
+        uses: ad-m/github-push-action@v0.5.0
+        with:
+          # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       
