@@ -1,5 +1,4 @@
-install.packages(c("dplyr", "purrr", "jsonlite", "readr", "remotes", "curl"))
-remotes::install_github("yiluheihei/ncovmap")
+install.packages(c("dplyr", "purrr", "jsonlite", "readr"))
 
 # From https://github.com/pzhaonet/ncovr/blob/master/R/ncovr.R
 conv_time <- function(x){
@@ -44,10 +43,7 @@ unnest_province_ncov <- function(x) {
       }
     }
     if (!"cityEnglishName" %in% names(c_ncov)) {
-      city_name_map <- system.file(
-        "china_city_list.csv",
-        package = "ncovmap") %>%
-        readr::read_csv()
+      city_name_map <- readr::read_csv("china_city_list.csv")
       
       index <-
         match(c_ncov$cityName, city_name_map$City, nomatch = 0) +
