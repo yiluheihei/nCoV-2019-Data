@@ -87,7 +87,7 @@ get_ncov_area <- function(latest = TRUE) {
   ncov
 }
 
-ncov_area <- get_ncov_area()
+ncov_area <- get_ncov_area(latest = FALSE)
 readr::write_csv(ncov_area, "ncov_area.csv")
 
 
