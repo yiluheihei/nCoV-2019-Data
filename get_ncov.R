@@ -1,4 +1,4 @@
-install.packages(c("dplyr", "purrr", "jsonlite", "readr", "remotes"))
+install.packages(c("dplyr", "purrr", "jsonlite", "readr", "remotes", "curl"))
 remotes::install_github("yiluheihei/ncovmap")
 
 # From https://github.com/pzhaonet/ncovr/blob/master/R/ncovr.R
