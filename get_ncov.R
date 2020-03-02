@@ -97,5 +97,5 @@ port <- c("Overall", "Rumors", "News")
 dest_file <- paste0("ncov_", tolower(port), ".csv")
 base_url <- "https://raw.githubusercontent.com/BlankerL/DXY-2019-nCoV-Data/master/csv/DXY"
 from_file <- paste0(base_url, port, ".csv")
-download.file(from_file, dest_file)
+mapply(function(x, y) download.file(x, y), from_file, dest_file)
 
