@@ -1,4 +1,5 @@
 install.packages(c("dplyr", "purrr", "jsonlite", "readr"))
+install.packages("curl")
 
 # From https://github.com/pzhaonet/ncovr/blob/master/R/ncovr.R
 conv_time <- function(x){
