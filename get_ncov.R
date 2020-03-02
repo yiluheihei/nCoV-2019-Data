@@ -17,14 +17,14 @@ unnest_province_ncov <- function(x) {
     updateTime
   )
   
-  # no cities data, such as beijing, foregin countries
+  # no cities data, such as foregin countries
   if (length(p_ncov$cities[[1]]) == 0) {
     p_ncov$cities <- NULL
     p_ncov$cityEnglishName <- NA
     res <- p_ncov
   } else {
     c_ncov <- p_ncov$cities[[1]]
-    # data may be incomplete, not contain locationID
+    # data may be incomplete, e.g., not contain locationID
     if ("locationId" %in% names(c_ncov)) {
       c_ncov$locationId <- NULL
     }
@@ -91,5 +91,11 @@ get_ncov_area <- function(latest = TRUE) {
 ncov_area <- get_ncov_area(latest = FALSE)
 readr::write_csv(ncov_area, "ncov_area.csv")
 
-
+# download overall, rumors, and news from 
+# https://github.com/BlankerL/DXY-COVID-19-Data/tree/master/csv directly
+port <- c("Overall", "Rumors", "News")
+dest_file <- paste0("ncov_", tolower(port), ".csv")
+base_url <- "https://raw.githubusercontent.com/BlankerL/DXY-2019-nCoV-Data/master/csv/DXY"
+from_file <- paste0(base_url, port, ".csv")
+download.file(from_file, dest_file)
 

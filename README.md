@@ -19,6 +19,9 @@
 辨别；我做的数据是把`province`的数据单独放置在一行，省去了`province_`和`city_`前
 缀，直接用api中变量名表示。
 
+剩下的 Overall/News/Rumors直接从
+[DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data/csv)下载
+
 ## 致谢
 
 - [DXY-COVID-19-Crawler](https://github.com/BlankerL/DXY-COVID-19-Crawler)
