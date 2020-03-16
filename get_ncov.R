@@ -99,3 +99,14 @@ base_url <- "https://raw.githubusercontent.com/BlankerL/DXY-2019-nCoV-Data/maste
 from_file <- paste0(base_url, port, ".csv")
 mapply(function(x, y) download.file(x, y), from_file, dest_file)
 
+ncov_overall <- readr::read_csv("ncov_overall.csv")
+# ncov_area <- readr::read_csv("ncov_area.csv")
+
+ncov <- structure(
+  ncov_area,
+  overall = ncov_overall,
+  class = c("ncov", "data.frame"),
+  type = "All",
+  from =  "https://github.com/yiluheihei/nCoV-2019-Data"
+)
+saveRDS(ncov, "ncov.RDS")
