@@ -99,9 +99,9 @@ base_url <- "https://raw.githubusercontent.com/BlankerL/DXY-2019-nCoV-Data/maste
 from_file <- paste0(base_url, port, ".csv")
 mapply(function(x, y) download.file(x, y), from_file, dest_file)
 
-ncov_overall <- readr::read_csv("ncov_overall.csv")
-# ncov_area <- readr::read_csv("ncov_area.csv")
 
+# save ncov data as RDS
+ncov_overall <- readr::read_csv("ncov_overall.csv")
 ncov <- structure(
   ncov_area,
   overall = ncov_overall,
@@ -110,3 +110,16 @@ ncov <- structure(
   from =  "https://github.com/yiluheihei/nCoV-2019-Data"
 )
 saveRDS(ncov, "ncov.RDS")
+
+# save latest ncov as RDS
+ncov_area_latest <- get_ncov_area(latest = TRUE)
+ncov_overall_latest <- ncov_overall[1, ]
+ncov_latest <- structure(
+  ncov_area_latest,
+  overall = ncov_overall_latest,
+  class = c("ncov", "data.frame"),
+  type = "All",
+  from =  "https://github.com/yiluheihei/nCoV-2019-Data"
+)
+saveRDS(ncov_latest, "ncov_latest.RDS")
+
