@@ -1,5 +1,8 @@
 # nCoV-2019-Data
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/yiluheihei/nCoV-2019-Data/blob/master/LICENSE)
+![CI](https://github.com/yiluheihei/nCoV-2019-Data/workflows/CI/badge.svg)
+
 ## 数据怎么来的
 
 数据通过[DXY-COVID-19-Crawler](https://github.com/BlankerL/DXY-COVID-19-Crawler)
