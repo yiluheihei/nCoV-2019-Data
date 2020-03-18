@@ -107,14 +107,17 @@ mapply(function(x, y) download.file(x, y), from_file, dest_file)
 
 # save ncov data as RDS
 ncov_overall <- readr::read_csv("ncov_overall.csv")
-ncov <- structure(
-  ncov_area,
-  overall = ncov_overall,
-  class = c("ncov", "data.frame"),
-  type = "All",
-  from =  "https://github.com/yiluheihei/nCoV-2019-Data"
-)
-saveRDS(ncov, "ncov.RDS")
+
+if (!inherits(ncov_area, "error")) {
+  ncov <- structure(
+    ncov_area,
+    overall = ncov_overall,
+    class = c("ncov", "data.frame"),
+    type = "All",
+    from =  "https://github.com/yiluheihei/nCoV-2019-Data"
+  )
+  saveRDS(ncov, "ncov.RDS")
+}
 
 # save latest ncov as RDS
 ncov_area_latest <- tryCatch(
