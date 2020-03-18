@@ -117,14 +117,20 @@ ncov <- structure(
 saveRDS(ncov, "ncov.RDS")
 
 # save latest ncov as RDS
-ncov_area_latest <- get_ncov_area(latest = TRUE)
-ncov_overall_latest <- ncov_overall[1, ]
-ncov_latest <- structure(
-  ncov_area_latest,
-  overall = ncov_overall_latest,
-  class = c("ncov", "data.frame"),
-  type = "All",
-  from =  "https://github.com/yiluheihei/nCoV-2019-Data"
+ncov_area_latest <- tryCatch(
+  get_ncov_area(latest = TRUE),
+  error = function(e) e
 )
-saveRDS(ncov_latest, "ncov_latest.RDS")
+
+if (!inherits(ncov_area_latest, "error")) {
+  ncov_overall_latest <- ncov_overall[1, ]
+  ncov_latest <- structure(
+    ncov_area_latest,
+    overall = ncov_overall_latest,
+    class = c("ncov", "data.frame"),
+    type = "All",
+    from =  "https://github.com/yiluheihei/nCoV-2019-Data"
+  )
+  saveRDS(ncov_latest, "ncov_latest.RDS")
+}
 
