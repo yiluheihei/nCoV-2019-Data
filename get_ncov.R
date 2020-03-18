@@ -88,8 +88,13 @@ get_ncov_area <- function(latest = TRUE) {
   ncov
 }
 
-ncov_area <- get_ncov_area(latest = FALSE)
-readr::write_csv(ncov_area, "ncov_area.csv")
+ncov_area <- tryCatch(
+  get_ncov_area(latest = FALSE),
+  error = function(e) e
+)
+if (!inherits(ncov_area, "error")) {
+  readr::write_csv(ncov_area, "ncov_area.csv")
+}
 
 # download overall, rumors, and news from 
 # https://github.com/BlankerL/DXY-COVID-19-Data/tree/master/csv directly
