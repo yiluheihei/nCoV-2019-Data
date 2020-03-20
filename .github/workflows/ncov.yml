@@ -31,7 +31,7 @@ jobs:
         uses: r-lib/actions/setup-r@v1
         
       - name: sys-require
-        run: sudo apt-get install -y libcurl4-openssl-dev libgeos++dev
+        run: sudo apt-get install -y libcurl4-openssl-dev libgeos-dev
         
       - name: get_ncov
         run: Rscript get_ncov.R
