@@ -5,25 +5,19 @@
 
 ## 数据怎么来的
 
-数据通过[DXY-COVID-19-Crawler](https://github.com/BlankerL/DXY-COVID-19-Crawler)
-提供的 API 接口下载。
+数据来自于[DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data)。
 
-目前只包含 area 数据，包括了所有数据。
+包括两种数据:
 
-## 产生这个数据的原因
+1. csv
+  - 全部时间序列数据[ncov.csv](ncov.csv)
+  - 最新一次更新的数据[ncov_latest.csv](ncov_latest.csv)
 
-见[这个issue](https://github.com/BlankerL/DXY-COVID-19-Data/issues/39)。
+2. RDS，保存了相应`ncov`类数据供[ncovmap](https://github.com/yiluheihei/ncovmap)直接读取
+  - 全部时间序列数据[ncov.RDS](nov.RDS)
+  - 最新一次更新的数据[ncov_latest.RDS](ncov_latest.RDS)
 
-与数据仓库[DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data)提供
-的 DXYArea.csv 文件的区别是：
-
-- 包含了国外数据
-- 数据是每一行`province`的数据与`city`的数据放在一起，用`province_`和`city_`前缀
-辨别；我做的数据是把`province`的数据单独放置在一行，省去了`province_`和`city_`前
-缀，直接用api中变量名表示。
-
-剩下的 Overall/News/Rumors直接从
-[DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data/csv)下载
+所有时间序列数据,最新的数据以`_latest`表示
 
 ## 致谢
 
