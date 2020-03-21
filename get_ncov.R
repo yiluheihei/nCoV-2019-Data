@@ -4,6 +4,11 @@ install.packages(c("purrr", "jsonlite", "readr"))
 install.packages("curl")
 library(dplyr)
 
+# from https://github.com/pzhaonet/ncovr/blob/master/R/ncovr.R
+conv_time <- function(x){
+  as.POSIXct('1970-01-01', tz = 'GMT') + x / 1000
+}
+
 #' Download ncov 2019 data from
 #' https://github.com/BlankerL/DXY-COVID-19-Data/ (csv) or
 #' https://github.com/yiluheihei/nCoV-2019-Data (RDS)
