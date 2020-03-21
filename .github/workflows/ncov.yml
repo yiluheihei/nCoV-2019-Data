@@ -13,7 +13,7 @@ jobs:
 
     steps:
       - name: checkout
-        uses: actions/checkout@master
+        uses: actions/checkout@v2
       
       - name: Cache
         uses: actions/cache@v1
@@ -36,15 +36,7 @@ jobs:
       - name: get_ncov
         run: Rscript get_ncov.R
         
-      - name: commit
-        run: |
-          git config --global user.email "yiluheihei@gmail.com"
-          git config --global user.name "yiluheihei"
-          git add .
-          git commit -m 'update'
-          
-      - name: push
-        uses: ad-m/github-push-action@v0.5.0
-        with:
-          # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: auto-commit
+        uses: stefanzweifel/git-auto-commit-action@v4.1.1
+        with: 
+          commit_message: automatic update for changes detected
