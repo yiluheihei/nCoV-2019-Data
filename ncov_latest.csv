@@ -1,71 +1,305 @@
 continentName,continentEnglishName,countryName,countryEnglishName,provinceName,provinceEnglishName,province_zipCode,province_confirmedCount,province_suspectedCount,province_curedCount,province_deadCount,cityName,cityEnglishName,city_confirmedCount,city_suspectedCount,city_curedCount,city_deadCount,city_zipCode,updateTime
-亚洲,Asia,中国,China,中国,China,951001,84416,0,79348,4643,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:39:48Z
-亚洲,Asia,中国,China,台湾,Taiwan,710000,440,348,355,6,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:39:48Z
-亚洲,Asia,巴林,Bahrain,巴林,Bahrain,955004,4404,0,2027,8,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:38:47Z
+非洲,Africa,索马里,Somali,索马里,Somali,985008,928,0,87,44,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+亚洲,Asia,新加坡,Singapore,新加坡,Singapore,952009,22460,0,1408,20,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+欧洲,Europe,俄罗斯,Russia,俄罗斯,Russia,964006,198676,0,31916,1827,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+北美洲,North America,美国,United States of America,美国,United States of America,971002,1283929,0,198993,77180,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+亚洲,Asia,吉尔吉斯斯坦,NA,吉尔吉斯斯坦,NA,954002,906,0,564,12,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+欧洲,Europe,拉脱维亚,Latvia,拉脱维亚,Latvia,964003,909,0,105,18,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+北美洲,North America,多米尼加,Dominican Republic,多米尼加,Dominican Republic,974006,9095,0,993,373,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+欧洲,Europe,克罗地亚,Croatia,克罗地亚,Croatia,965005,2125,0,1641,86,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+欧洲,Europe,葡萄牙,Portugal,葡萄牙,Portugal,965010,27268,0,2422,1114,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+非洲,Africa,坦桑尼亚,Tanzania,坦桑尼亚,Tanzania,985009,509,0,167,21,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+非洲,Africa,刚果（金）,Democratic Republic of the Congo,刚果（金）,Democratic Republic of the Congo,0,937,0,130,39,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:37:13Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,境外输入,NA,318,4,294,0,0,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,外地来沪,NA,111,0,110,1,0,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,浦东新区,Pudong District,61,0,60,1,310115,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,宝山区,Baoshan District,22,0,21,1,310113,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,闵行区,Minhang District,19,0,19,0,310112,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,徐汇区,Xuhui District,18,0,17,1,310104,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,静安区,Jing'an District,16,0,15,1,310106,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,松江区,Songjiang District,14,0,14,0,310117,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,长宁区,Changning District,13,0,13,0,310105,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,普陀区,Putuo District,11,0,11,0,310107,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,杨浦区,Yangpu District,9,0,9,0,310110,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,嘉定区,Jiading District,9,0,7,2,310114,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,奉贤区,Fengxian District,9,0,9,0,310120,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,虹口区,Hongkou District,7,0,7,0,310109,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,黄浦区,Huangpu District,6,0,6,0,310101,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,青浦区,Qingpu District,6,0,6,0,310118,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,金山区,Jinshan District,4,0,4,0,310116,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,626,7,崇明区,Chongming District,4,0,4,0,310151,2020-05-09T08:22:42Z
+亚洲,Asia,塞浦路斯,Cyprus,塞浦路斯,Cyprus,955005,889,0,148,21,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,以色列,Israel,以色列,Israel,955009,16436,0,11229,245,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,中国,China,951001,84416,0,79410,4643,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,莫桑比克,Mozambique,莫桑比克,Mozambique,984008,81,0,10,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,百慕大,NA,百慕大,NA,0,118,0,0,7,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,乌拉圭,Uruguay,乌拉圭,Uruguay,973011,684,0,492,17,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+其他,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,0,712,0,574,13,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,巴西,Brazil,巴西,Brazil,973003,145892,0,55350,9992,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,瑞士,Switzerland,瑞士,Switzerland,963008,30125,0,25845,1525,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,冈比亚,Gambia,冈比亚,Gambia,982005,18,0,2,1,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,菲律宾,Philippines,菲律宾,Philippines,952008,10463,0,1734,696,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,斯洛伐克,Slovakia,斯洛伐克,Slovakia,963007,1445,0,806,26,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,蒙古,Mongolia,蒙古,Mongolia,0,41,0,10,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,立陶宛,Lithuania,立陶宛,Lithuania,964004,1433,0,739,49,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,974012,17,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,阿根廷,Argentina,阿根廷,Argentina,973001,5611,0,1524,293,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,突尼斯,Tunisia,突尼斯,Tunisia,981006,1026,0,600,44,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,冰岛,Iceland,冰岛,Iceland,962003,1801,0,1755,10,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,利比亚,Libya,利比亚,Libya,981003,64,0,24,3,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+大洋洲,Oceania,新西兰,New Zealand,新西兰,New Zealand,990007,1141,4,1347,21,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,比利时,Belgium,比利时,Belgium,961001,52011,0,13201,8552,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,保加利亚,Bulgaria,保加利亚,Bulgaria,965004,1829,0,360,84,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,马耳他,Malta,马耳他,Malta,965019,486,0,367,5,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,塔吉克斯坦,Tajikstan,塔吉克斯坦,Tajikstan,954003,461,0,0,16,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,西班牙,Spain,西班牙,Spain,965015,222857,0,130843,26251,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,斯洛文尼亚,Slovenia,斯洛文尼亚,Slovenia,965014,1449,0,247,99,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,佛得角,NA,佛得角,NA,982017,230,0,44,2,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,日本,Japan,日本,Japan,951002,15663,0,3466,606,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,毛里求斯,Mauritius,毛里求斯,Mauritius,984014,332,0,319,10,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,埃及,Egypt,埃及,Egypt,981002,8476,0,1945,503,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,丹麦,Denmark,丹麦,Denmark,962001,10218,0,6987,522,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,马约特,NA,马约特,NA,0,854,0,0,10,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,卡塔尔,Qatar,卡塔尔,Qatar,955015,20201,0,2370,12,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,奥地利,Austria,奥地利,Austria,963001,15714,0,13228,614,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,海地,Haiti,海地,Haiti,974008,108,0,0,12,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,赤道几内亚,The Republic of Equatorial Guinea,赤道几内亚,The Republic of Equatorial Guinea,0,439,0,13,4,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,印度,India,印度,India,953003,59662,0,17847,1981,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,几内亚,Guinea,几内亚,Guinea,0,1927,0,629,11,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,根西岛,Guernsey,根西岛,Guernsey,0,252,0,0,13,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,马尔代夫,Maldives,马尔代夫,Maldives,953004,733,0,20,3,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,乌兹别克斯坦,Uzbekistan,乌兹别克斯坦,Uzbekistan,954005,2314,0,1308,10,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,圣马力诺,San Marino,圣马力诺,San Marino,965012,632,0,2,41,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,苏丹,Sudan,苏丹,Sudan,981005,1111,0,102,59,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,安哥拉,Angola,安哥拉,Angola,984001,36,0,11,2,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,阿塞拜疆,Azerbaijan,阿塞拜疆,Azerbaijan,955003,2279,0,1576,28,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,也门共和国,NA,也门共和国,NA,0,26,0,1,6,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,阿尔巴尼亚,Albania,阿尔巴尼亚,Albania,965001,850,0,605,31,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,叙利亚,Syria,叙利亚,Syria,955017,45,0,27,3,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,喀麦隆,Cameroon,喀麦隆,Cameroon,983001,2265,0,1000,108,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,尼日利亚,Nigeria,尼日利亚,Nigeria,982013,3912,0,679,117,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,贝宁,Benin,贝宁,Benin,982001,140,0,53,2,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,955019,16793,0,3837,174,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,斯威士兰,Swaziland,斯威士兰,Swaziland,984010,153,0,13,2,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,加拿大,Canada,加拿大,Canada,971001,66434,0,30406,4569,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,圭亚那,Guyana,圭亚那,Guyana,973007,93,0,27,10,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,约旦,Jordan,约旦,Jordan,955010,494,0,381,9,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,乌干达,Uganda,乌干达,Uganda,985010,101,0,55,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,瓜德罗普岛,NA,瓜德罗普岛,NA,0,153,0,0,13,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,境外输入,NA,64,64,63,0,0,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,太原,Taiyuan,21,0,20,0,140100,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,晋中,Jinzhong,37,0,37,0,140700,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,运城,Yuncheng,19,0,19,0,140800,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,大同,Datong,12,0,12,0,140200,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,晋城,Jincheng,10,0,10,0,140500,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,长治,Changzhi,8,0,8,0,140400,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,朔州,Shuozhou,8,0,8,0,140600,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,忻州,Xinzhou,7,0,7,0,140900,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,吕梁,Lüliang,6,0,6,0,141100,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,阳泉,Yangquan,4,0,4,0,140300,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,196,0,临汾,Linfen,2,0,2,0,141000,2020-05-09T08:22:42Z
+北美洲,North America,开曼群岛,Cayman Is,开曼群岛,Cayman Is,0,78,0,0,2,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,摩尔多瓦,Moldova,摩尔多瓦,Moldova,964005,4605,0,1544,145,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,955016,35432,0,9120,229,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,圣卢西亚,St.Lucia,圣卢西亚,St.Lucia,974011,18,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,黑山,NA,黑山,NA,965018,324,0,265,8,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,974013,116,0,0,8,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,孟加拉国,Bangladesh,孟加拉国,Bangladesh,953001,12425,0,177,186,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,马达加斯加,Madagascar,马达加斯加,Madagascar,984005,193,0,101,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,阿曼,Oman,阿曼,Oman,955013,3112,0,1025,15,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,古巴,Cuba,古巴,Cuba,974004,1729,0,525,73,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,南非,South Africa,南非,South Africa,984011,8895,0,3153,178,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,罗马尼亚,Romania,罗马尼亚,Romania,965011,14811,0,6423,898,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,德国,Germany,德国,Germany,963003,168551,0,143300,7369,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+大洋洲,Oceania,关岛,Guam,关岛,Guam,0,147,0,0,5,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,塞拉利昂,Sierra Leone,塞拉利昂,Sierra Leone,982015,231,0,54,14,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,缅甸,Burma,缅甸,Burma,952001,176,0,62,6,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,洪都拉斯,Honduras,洪都拉斯,Honduras,972005,1461,0,0,99,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,972003,695,0,0,15,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,塞内加尔,Senegal,塞内加尔,Senegal,982014,1551,0,611,13,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,法罗群岛,Faroe,法罗群岛,Faroe,0,187,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,朝阳区,Chaoyang District,75,0,0,0,110105,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,海淀区,Haidian District,64,0,0,0,110108,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,西城区,Xicheng District,53,0,0,0,110102,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,丰台区,Fengtai District,43,0,3,0,110106,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,大兴区,Daxing District,39,0,16,0,110115,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,外地来京,NA,25,0,2,0,0,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,昌平区,Changping District,29,0,10,0,110114,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,境外输入,NA,174,3,156,0,0,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,通州区,Tongzhou District,19,0,1,0,110112,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,房山区,Fangshan District,16,0,3,0,110111,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,东城区,Dongcheng District,14,0,1,0,110101,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,怀柔区,Huairou District,7,0,0,0,110116,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,密云区,Miyun District,7,0,0,0,110118,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,石景山区,Shijingshan District,14,0,9,0,110107,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,门头沟区,Mentougou District,3,0,2,0,110109,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,延庆区,Yanqing District,1,0,0,0,110119,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,顺义区,Shunyi District,10,0,10,0,110113,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,563,9,待明确地区,Area not defined,0,0,350,9,0,2020-05-09T08:22:42Z
+欧洲,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,965013,10804,0,2453,237,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+大洋洲,Oceania,法属波利尼西亚,French Polynesia,法属波利尼西亚,French Polynesia,0,60,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,赞比亚共和国,NA,赞比亚共和国,NA,0,153,0,103,4,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,0,379,0,0,10,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,伊朗,Iran,伊朗,Iran,955007,104691,0,83837,6541,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,黎巴嫩,Lebanon,黎巴嫩,Lebanon,955012,796,0,223,26,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,卢森堡,Luxembourg,卢森堡,Luxembourg,961004,3859,0,3379,100,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,卢旺达,Republic of Rwanda,卢旺达,Republic of Rwanda,985006,271,0,133,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,0,138,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,阿尔及利亚,Algeria,阿尔及利亚,Algeria,981001,5369,0,2467,488,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,广州,Guangzhou,505,4,501,1,440100,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,深圳,Shenzhen,462,1,458,3,440300,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,佛山,Foshan,100,1,99,0,440600,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,珠海,Zhuhai,103,1,102,1,440400,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,东莞,Dongguan,100,0,99,1,441900,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,中山,Zhongshan,69,0,69,0,442000,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,惠州,Huizhou,62,0,62,0,441300,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,汕头,Shantou,26,0,26,0,440500,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,江门,Jiangmen,24,0,24,0,440700,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,湛江,Zhanjiang,24,2,24,0,440800,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,肇庆,Zhaoqing,20,0,19,1,441200,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,梅州,Meizhou,17,0,17,0,441400,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,阳江,Yangjiang,14,0,14,0,441700,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,茂名,Maoming,14,0,14,0,440900,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,清远,Qingyuan,12,0,12,0,441800,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,揭阳,Jieyang,11,0,11,0,445200,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,韶关,Shaoguan,10,0,9,1,440200,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,潮州,Chaozhou,6,0,6,0,445100,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,汕尾,Shanwei,5,0,5,0,441500,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1576,8,河源,Heyuan,5,0,5,0,441600,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,境外输入,NA,63,0,50,0,0,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,西安,Xi'an,120,0,117,3,610100,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,安康,Ankang,26,0,26,0,610900,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,汉中,Hanzhong,26,0,26,0,610700,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,咸阳,Xianyang,17,0,17,0,610400,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,渭南,Weinan,15,0,15,0,610500,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,宝鸡,Baoji,13,0,13,0,610300,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,延安,Yan'an,8,0,8,0,610600,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,铜川,Tongchuan,8,0,8,0,610200,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,商洛,Shangluo,7,0,7,0,611000,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,榆林,Yulin,3,0,3,0,610800,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,韩城,Hancheng,1,0,1,0,610581,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,292,3,杨凌,Yangling District in Xianyang,1,0,1,0,0,2020-05-09T08:22:42Z
+欧洲,Europe,爱尔兰,Ireland,爱尔兰,Ireland,961003,22541,0,13386,1429,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,尼日尔,Niger,尼日尔,Niger,982011,781,0,586,42,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,英国,United Kingdom,英国,United Kingdom,961007,211364,0,539,31241,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,阿鲁巴,NA,阿鲁巴,NA,0,101,0,0,2,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,科威特,Kuwait,科威特,Kuwait,955011,7208,0,2466,47,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,牙买加,Jamaica,牙买加,Jamaica,974009,478,0,0,9,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,韩国,Korea,韩国,Korea,951004,10840,0,9568,256,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,105,1,吉林市,Jilin,18,12,12,0,220200,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,105,1,长春,Changchun,49,1,48,0,220100,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,105,1,四平市,Siping,15,0,14,1,220300,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,105,1,辽源,Liaoyuan,7,0,7,0,220400,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,105,1,延边,Yanbian,7,1,7,0,222400,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,105,1,公主岭,Gongzhuling,6,0,6,0,220381,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,105,1,通化,Tonghua,6,0,6,0,220500,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,105,1,松原,Songyuan,2,0,2,0,220700,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,105,1,梅河口,Meihekou,2,0,2,0,220581,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,105,1,白城,Baicheng,1,0,1,0,220800,2020-05-09T08:22:42Z
+欧洲,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,0,1572,0,1079,89,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,982004,1602,0,754,20,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,瑞典,Sweden,瑞典,Sweden,962005,25265,0,1543,3175,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,乌克兰,Ukraine,乌克兰,Ukraine,964007,14195,0,2097,361,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,梵蒂冈,Status Civitatis Vaticanae,梵蒂冈,Status Civitatis Vaticanae,965017,12,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,斯里兰卡,SriLanka,斯里兰卡,SriLanka,953007,835,0,240,9,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,泰国,Thailand,泰国,Thailand,952010,3000,0,2784,55,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,捷克,Czech Republic,捷克,Czech Republic,963002,8065,0,4408,271,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,匈牙利,Hungary,匈牙利,Hungary,963004,3178,0,865,392,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,留尼旺,Reunion,留尼旺,Reunion,0,427,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,秘鲁,Peru,秘鲁,Peru,973008,61847,0,19012,1714,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,加蓬,Gabon,加蓬,Gabon,983004,504,0,110,8,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,阿富汗,Afghanistan,阿富汗,Afghanistan,955001,3778,0,472,109,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,柬埔寨,Kampuchea (Cambodia ),柬埔寨,Kampuchea (Cambodia ),952003,122,0,50,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,哥斯达黎加,Costa Rica,哥斯达黎加,Costa Rica,972002,761,0,0,6,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,巴巴多斯,Barbados,巴巴多斯,Barbados,974003,82,0,0,7,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,吉布提,Djibouti,吉布提,Djibouti,985002,1133,0,799,3,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,爱沙尼亚,Estonia,爱沙尼亚,Estonia,964002,1720,0,704,56,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,乍得,Chad,乍得,Chad,982003,253,0,0,27,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+大洋洲,Oceania,北马里亚纳群岛联邦,NA,北马里亚纳群岛联邦,NA,0,15,0,0,2,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,马里,Mali,马里,Mali,982010,650,0,271,32,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,格鲁吉亚,Georgia,格鲁吉亚,Georgia,955006,623,0,288,9,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,意大利,Italy,意大利,Italy,965008,217185,0,99023,30201,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,波兰,Poland,波兰,Poland,963006,15366,0,5184,776,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,几内亚比绍,NA,几内亚比绍,NA,982008,508,0,19,2,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,巴基斯坦,Pakistan,巴基斯坦,Pakistan,953006,27474,0,7756,618,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,肯尼亚,Kenya,肯尼亚,Kenya,985005,607,0,197,29,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,埃塞俄比亚,Ethiopia,埃塞俄比亚,Ethiopia,985004,191,0,93,4,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,巴拿马,Panama,巴拿马,Panama,972007,7731,0,455,218,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,马拉维,Malawi,马拉维,Malawi,984006,43,0,9,3,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,智利,Chile,智利,Chile,973004,24581,0,11189,285,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,挪威,Norway,挪威,Norway,962004,8015,0,0,217,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,境外输入,NA,386,386,309,0,0,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,哈尔滨,Harbin,263,8,245,4,230100,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,牡丹江,Mudanjiang,25,0,20,0,231000,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,双鸭山,Shuangyashan,52,0,49,3,230500,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,绥化,Suihua,47,0,43,4,231200,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,鸡西,Jixi,46,0,46,0,230300,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,齐齐哈尔,Qiqihar,43,0,42,1,230200,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,大庆,Daqing,27,0,26,1,230600,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,七台河,Qitaihe,17,0,17,0,230900,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,佳木斯,Jiamusi,15,0,15,0,230800,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,黑河,Heihe,14,0,14,0,231100,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,鹤岗,Hegang,5,0,5,0,230400,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,大兴安岭,Daxinganling,3,0,3,0,232700,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,835,13,伊春,Yichun,1,0,1,0,230700,2020-05-09T08:22:42Z
+亚洲,Asia,马来西亚,Malaysia,马来西亚,Malaysia,952007,6535,0,4864,107,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,希腊,Greece,希腊,Greece,965007,2678,0,1473,148,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,危地马拉,Guatemala,危地马拉,Guatemala,972004,798,0,0,21,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,哈萨克斯坦,Kazakhstan,哈萨克斯坦,Kazakhstan,954001,4578,0,995,30,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,文莱,Brunei,文莱,Brunei,952002,141,0,131,1,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,利比里亚,Liberia,利比里亚,Liberia,982009,189,0,75,20,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,多哥,Togo,多哥,Togo,982016,135,0,85,9,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,境外输入人员,NA,124,34,100,0,0,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,呼伦贝尔,Hulunbuir,9,0,8,0,150700,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,鄂尔多斯,Ordos,11,0,11,0,150600,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,包头,Baotou,11,0,11,0,150200,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,赤峰,Chifeng,9,0,9,0,150400,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,锡林郭勒盟,Linguolexi,9,0,9,0,152500,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,巴彦淖尔,Bayannur,8,0,7,1,150800,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,呼和浩特,Hohhot,7,0,7,0,150100,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,通辽,Tongliao,7,0,7,0,150500,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,乌兰察布,Ulanqab,3,0,3,0,150900,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,乌海市,Wuhai,2,0,2,0,150300,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,175,1,兴安盟,Xinganmeng,1,0,1,0,152200,2020-05-09T08:22:42Z
+非洲,Africa,科摩罗,NA,科摩罗,NA,984003,8,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,英属维尔京群岛,NA,英属维尔京群岛,NA,0,7,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,芬兰,Finland,芬兰,Finland,962002,5738,0,3000,260,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+大洋洲,Oceania,澳大利亚,Australia,澳大利亚,Australia,990001,6914,0,6079,97,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,荷属圣马丁,NA,荷属圣马丁,NA,0,76,0,0,14,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,摩洛哥,Morocco,摩洛哥,Morocco,981004,5661,0,2302,185,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,尼泊尔,Nepal,尼泊尔,Nepal,953005,99,0,22,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,中非共和国,Central African Republic,中非共和国,Central African Republic,983002,118,0,10,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,玻利维亚,Bolivia,玻利维亚,Bolivia,973002,1886,0,159,91,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,安道尔,Andorra,安道尔,Andorra,965002,753,0,472,47,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,荷兰,Netherlands,荷兰,Netherlands,961006,42093,0,291,5359,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,巴哈马,Bahamas,巴哈马,Bahamas,974002,92,0,0,11,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,直布罗陀,Gibraltar,直布罗陀,Gibraltar,0,144,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,巴勒斯坦,Palestine,巴勒斯坦,Palestine,955014,547,0,77,4,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,南苏丹,NA,南苏丹,NA,981007,90,0,2,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,圣多美和普林西比,Sao Tome and Principe,圣多美和普林西比,Sao Tome and Principe,983007,174,0,0,4,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,加纳,Ghana,加纳,Ghana,982006,4012,0,323,18,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,法国,France,法国,France,961002,138421,0,55782,26230,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,印度尼西亚,Indonesia,印度尼西亚,Indonesia,952005,13112,0,2494,943,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,墨西哥,Mexico,墨西哥,Mexico,971003,31522,0,17781,3160,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,965003,2056,0,945,98,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,马恩岛,Isle of Man,马恩岛,Isle of Man,0,327,0,0,23,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,土耳其,Turkey,土耳其,Turkey,955018,135569,0,86396,3689,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,哥伦比亚,Colombia,哥伦比亚,Colombia,973005,10051,0,1210,428,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,巴林,Bahrain,巴林,Bahrain,955004,4404,0,2027,8,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,0,293,0,0,25,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,亚美尼亚,Armenia,亚美尼亚,Armenia,955002,3029,0,1218,43,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,中国,China,台湾,Taiwan,710000,440,348,361,6,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,刚果（布）,NA,刚果（布）,NA,0,274,0,26,10,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,马提尼克,Martinique,马提尼克,Martinique,0,182,0,0,14,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,尼加拉瓜,Nicaragua,尼加拉瓜,Nicaragua,972006,16,0,0,5,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+非洲,Africa,布基纳法索,Burkina Faso,布基纳法索,Burkina Faso,982002,736,0,562,48,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,厄瓜多尔,Ecuador,厄瓜多尔,Ecuador,973006,28818,0,3433,1704,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+北美洲,North America,波多黎各,Puerto Rico,波多黎各,Puerto Rico,0,2031,0,0,97,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,伊拉克,Iraq,伊拉克,Iraq,955008,2603,0,1661,104,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+欧洲,Europe,白俄罗斯,Belarus,白俄罗斯,Belarus,964001,20168,0,5067,116,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+亚洲,Asia,越南,Vietnam,越南,Vietnam,952011,288,0,169,0,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
+南美洲,South America,巴拉圭,Paraguay,巴拉圭,Paraguay,973009,462,0,130,10,NA,NA,NA,NA,NA,NA,NA,2020-05-09T08:22:42Z
 亚洲,Asia,中国,China,香港,Hong Kong,810000,1044,47,960,4,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:38:47Z
-欧洲,Europe,比利时,Belgium,比利时,Belgium,961001,52011,0,13201,8552,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:32:42Z
-非洲,Africa,卢旺达,Republic of Rwanda,卢旺达,Republic of Rwanda,985006,271,0,133,0,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,泰国,Thailand,泰国,Thailand,952010,3000,0,2784,55,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,斯洛伐克,Slovakia,斯洛伐克,Slovakia,963007,1445,0,806,26,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,坦桑尼亚,Tanzania,坦桑尼亚,Tanzania,985009,480,0,167,18,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,刚果（金）,Democratic Republic of the Congo,刚果（金）,Democratic Republic of the Congo,0,897,0,119,36,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,马耳他,Malta,马耳他,Malta,965019,484,0,367,5,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,塞浦路斯,Cyprus,塞浦路斯,Cyprus,955005,889,0,148,21,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,亚美尼亚,Armenia,亚美尼亚,Armenia,955002,3029,0,1218,43,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,哈萨克斯坦,Kazakhstan,哈萨克斯坦,Kazakhstan,954001,4509,0,995,30,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,加纳,Ghana,加纳,Ghana,982006,3091,0,303,18,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,科特迪瓦,Ivory Coast,科特迪瓦,Ivory Coast,982004,1516,0,721,18,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,科威特,Kuwait,科威特,Kuwait,955011,7208,0,2466,47,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,克罗地亚,Croatia,克罗地亚,Croatia,965005,2125,0,1641,86,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,印度尼西亚,Indonesia,印度尼西亚,Indonesia,952005,13112,0,2494,943,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-北美洲,North America,萨尔瓦多,El Salvador,萨尔瓦多,El Salvador,972003,633,0,0,14,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,新加坡,Singapore,新加坡,Singapore,952009,21707,0,1408,20,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-北美洲,North America,马提尼克,Martinique,马提尼克,Martinique,0,182,0,0,14,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,塞拉利昂,Sierra Leone,塞拉利昂,Sierra Leone,982015,225,0,54,14,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-大洋洲,Oceania,澳大利亚,Australia,澳大利亚,Australia,990001,6896,0,6035,97,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,马来西亚,Malaysia,马来西亚,Malaysia,952007,6535,0,4864,107,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-北美洲,North America,美国,United States of America,美国,United States of America,971002,1256972,0,195036,75670,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,圣多美和普林西比,Sao Tome and Principe,圣多美和普林西比,Sao Tome and Principe,983007,174,0,0,3,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-北美洲,North America,瓜德罗普岛,NA,瓜德罗普岛,NA,0,153,0,0,13,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,西班牙,Spain,西班牙,Spain,965015,222857,0,128511,26299,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-南美洲,South America,秘鲁,Peru,秘鲁,Peru,973008,58526,0,18388,1627,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,加蓬,Gabon,加蓬,Gabon,983004,504,0,110,8,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-其他,Others,钻石公主号邮轮,Diamond Princess Cruise Ship,钻石公主号邮轮,Diamond Princess Cruise Ship,0,712,0,574,13,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,瑞典,Sweden,瑞典,Sweden,962005,24713,0,1543,3056,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,突尼斯,Tunisia,突尼斯,Tunisia,981006,1026,0,600,44,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,赤道几内亚,The Republic of Equatorial Guinea,赤道几内亚,The Republic of Equatorial Guinea,0,439,0,13,4,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,尼日尔,Niger,尼日尔,Niger,982011,781,0,586,42,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,日本,Japan,日本,Japan,951002,15575,0,3466,590,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,索马里,Somali,索马里,Somali,985008,873,0,87,39,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,孟加拉国,Bangladesh,孟加拉国,Bangladesh,953001,11719,0,177,186,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-北美洲,North America,牙买加,Jamaica,牙买加,Jamaica,974009,473,0,0,9,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,以色列,Israel,以色列,Israel,955009,16409,0,11007,245,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,摩尔多瓦,Moldova,摩尔多瓦,Moldova,964005,4476,0,1544,143,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,菲律宾,Philippines,菲律宾,Philippines,952008,10463,0,1734,696,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,约旦,Jordan,约旦,Jordan,955010,484,0,381,9,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,贝宁,Benin,贝宁,Benin,982001,140,0,53,2,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,阿曼,Oman,阿曼,Oman,955013,3112,0,1025,15,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,塞内加尔,Senegal,塞内加尔,Senegal,982014,1551,0,611,13,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,乌干达,Uganda,乌干达,Uganda,985010,101,0,55,0,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,爱尔兰,Ireland,爱尔兰,Ireland,961003,22385,0,13386,1403,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,黎巴嫩,Lebanon,黎巴嫩,Lebanon,955012,796,0,223,26,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,斯里兰卡,SriLanka,斯里兰卡,SriLanka,953007,834,0,232,9,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,根西岛,Guernsey,根西岛,Guernsey,0,252,0,0,13,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,吉尔吉斯斯坦,NA,吉尔吉斯斯坦,NA,954002,895,0,564,12,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,巴基斯坦,Pakistan,巴基斯坦,Pakistan,953006,25837,0,7530,594,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,伊朗,Iran,伊朗,Iran,955007,104691,0,83837,6541,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-南美洲,South America,巴拉圭,Paraguay,巴拉圭,Paraguay,973009,440,0,130,10,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,乌兹别克斯坦,Uzbekistan,乌兹别克斯坦,Uzbekistan,954005,2266,0,1308,10,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,俄罗斯,Russia,俄罗斯,Russia,964006,187859,0,26608,1723,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-南美洲,South America,厄瓜多尔,Ecuador,厄瓜多尔,Ecuador,973006,30298,0,3433,1654,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,安道尔,Andorra,安道尔,Andorra,965002,753,0,472,47,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,格鲁吉亚,Georgia,格鲁吉亚,Georgia,955006,623,0,288,9,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,斯威士兰,Swaziland,斯威士兰,Swaziland,984010,123,0,13,2,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-南美洲,South America,智利,Chile,智利,Chile,973004,24581,0,11189,285,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-非洲,Africa,摩洛哥,Morocco,摩洛哥,Morocco,981004,5661,0,2302,185,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-亚洲,Asia,阿联酋,United Arab Emirates,阿联酋,United Arab Emirates,955019,16793,0,3837,174,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,匈牙利,Hungary,匈牙利,Hungary,963004,3178,0,865,392,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
-欧洲,Europe,爱沙尼亚,Estonia,爱沙尼亚,Estonia,964002,1720,0,704,56,NA,NA,NA,NA,NA,NA,NA,2020-05-08T12:31:41Z
 亚洲,Asia,中国,China,天津市,Tianjin,120000,191,48,186,3,境外输入,NA,55,0,53,0,0,2020-05-08T03:54:46Z
 亚洲,Asia,中国,China,天津市,Tianjin,120000,191,48,186,3,宝坻区,Baodi District,60,0,58,2,120115,2020-05-08T03:54:46Z
 亚洲,Asia,中国,China,天津市,Tianjin,120000,191,48,186,3,河东区,Hedong District,15,0,14,1,120102,2020-05-08T03:54:46Z
@@ -82,91 +316,6 @@ continentName,continentEnglishName,countryName,countryEnglishName,provinceName,p
 亚洲,Asia,中国,China,天津市,Tianjin,120000,191,48,186,3,武清区,Wuqing District,2,0,2,0,120114,2020-05-08T03:54:46Z
 亚洲,Asia,中国,China,天津市,Tianjin,120000,191,48,186,3,红桥区,Hongqiao District,2,0,2,0,120106,2020-05-08T03:54:46Z
 亚洲,Asia,中国,China,天津市,Tianjin,120000,191,48,186,3,津南区,Jinnan District,2,0,2,0,120112,2020-05-08T03:54:46Z
-南美洲,South America,巴西,Brazil,巴西,Brazil,973003,135773,0,55350,9190,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:47:42Z
-欧洲,Europe,葡萄牙,Portugal,葡萄牙,Portugal,965010,26715,0,2258,1105,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:47:42Z
-欧洲,Europe,波黑,Bosnia and Herzegovina,波黑,Bosnia and Herzegovina,965003,2017,0,937,87,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:47:42Z
-欧洲,Europe,法国,France,法国,France,961002,137779,0,55027,25987,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:47:42Z
-欧洲,Europe,瑞士,Switzerland,瑞士,Switzerland,963008,30126,0,25900,1518,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:47:42Z
-欧洲,Europe,德国,Germany,德国,Germany,963003,167300,0,141700,7266,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:47:42Z
-北美洲,North America,加拿大,Canada,加拿大,Canada,971001,64922,0,29247,4408,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:47:42Z
-欧洲,Europe,圣马力诺,San Marino,圣马力诺,San Marino,965012,608,0,2,41,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:47:42Z
-亚洲,Asia,印度,India,印度,India,953003,56342,0,16539,1886,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:47:42Z
-大洋洲,Oceania,新西兰,New Zealand,新西兰,New Zealand,990007,1141,4,1347,21,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:06:14Z
-非洲,Africa,尼日利亚,Nigeria,尼日利亚,Nigeria,982013,3526,0,601,107,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:06:14Z
-亚洲,Asia,阿富汗,Afghanistan,阿富汗,Afghanistan,955001,3563,0,468,106,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:06:14Z
-亚洲,Asia,韩国,Korea,韩国,Korea,951004,10822,0,9484,256,NA,NA,NA,NA,NA,NA,NA,2020-05-08T03:06:14Z
-北美洲,North America,危地马拉,Guatemala,危地马拉,Guatemala,972004,763,0,0,19,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,白俄罗斯,Belarus,白俄罗斯,Belarus,964001,20168,0,5067,116,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,多哥,Togo,多哥,Togo,982016,135,0,85,9,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,捷克,Czech Republic,捷克,Czech Republic,963002,8002,0,4369,269,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-南美洲,South America,委内瑞拉,Venezuela,委内瑞拉,Venezuela,0,367,0,0,10,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,哥斯达黎加,Costa Rica,哥斯达黎加,Costa Rica,972002,755,0,0,6,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,英国,United Kingdom,英国,United Kingdom,961007,206715,0,344,30615,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,尼加拉瓜,Nicaragua,尼加拉瓜,Nicaragua,972006,16,0,0,5,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,南苏丹,NA,南苏丹,NA,981007,90,0,2,0,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-南美洲,South America,阿根廷,Argentina,阿根廷,Argentina,973001,5371,0,1524,282,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,波多黎各,Puerto Rico,波多黎各,Puerto Rico,0,1968,0,0,97,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,墨西哥,Mexico,墨西哥,Mexico,971003,29616,0,17781,2961,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,北马其顿,North Macedonia,北马其顿,North Macedonia,0,1572,0,1079,89,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,马恩岛,Isle of Man,马恩岛,Isle of Man,0,326,0,0,23,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,布基纳法索,Burkina Faso,布基纳法索,Burkina Faso,982002,736,0,562,48,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-亚洲,Asia,越南,Vietnam,越南,Vietnam,952011,288,0,169,0,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-亚洲,Asia,土耳其,Turkey,土耳其,Turkey,955018,133721,0,82984,3641,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,芬兰,Finland,芬兰,Finland,962002,5673,0,3000,255,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,莫桑比克,Mozambique,莫桑比克,Mozambique,984008,81,0,10,0,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-亚洲,Asia,巴勒斯坦,Palestine,巴勒斯坦,Palestine,955014,546,0,77,4,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,希腊,Greece,希腊,Greece,965007,2678,0,1473,148,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,埃及,Egypt,埃及,Egypt,981002,7981,0,1887,482,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-亚洲,Asia,文莱,Brunei,文莱,Brunei,952002,141,0,131,1,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-南美洲,South America,玻利维亚,Bolivia,玻利维亚,Bolivia,973002,1802,0,159,86,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-大洋洲,Oceania,关岛,Guam,关岛,Guam,0,147,0,0,5,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-亚洲,Asia,塔吉克斯坦,Tajikstan,塔吉克斯坦,Tajikstan,954003,379,0,0,9,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,中非共和国,Central African Republic,中非共和国,Central African Republic,983002,118,0,10,0,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-亚洲,Asia,阿塞拜疆,Azerbaijan,阿塞拜疆,Azerbaijan,955003,2204,0,1551,28,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,荷兰,Netherlands,荷兰,Netherlands,961006,41774,0,291,5288,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-亚洲,Asia,马尔代夫,Maldives,马尔代夫,Maldives,953004,648,0,20,2,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,科摩罗,NA,科摩罗,NA,984003,8,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,斯洛文尼亚,Slovenia,斯洛文尼亚,Slovenia,965014,1449,0,247,99,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,保加利亚,Bulgaria,保加利亚,Bulgaria,965004,1829,0,360,84,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-亚洲,Asia,缅甸,Burma,缅甸,Burma,952001,176,0,62,6,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,冰岛,Iceland,冰岛,Iceland,962003,1801,0,1755,10,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,海地,Haiti,海地,Haiti,974008,101,0,0,12,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,佛得角,NA,佛得角,NA,982017,191,0,37,2,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,几内亚,Guinea,几内亚,Guinea,0,1927,0,629,11,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,巴拿马,Panama,巴拿马,Panama,972007,7523,0,455,210,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,立陶宛,Lithuania,立陶宛,Lithuania,964004,1433,0,739,49,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,洪都拉斯,Honduras,洪都拉斯,Honduras,972005,1270,0,0,93,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,苏丹,Sudan,苏丹,Sudan,981005,930,0,92,52,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-南美洲,South America,乌拉圭,Uruguay,乌拉圭,Uruguay,973011,684,0,492,17,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,罗马尼亚,Romania,罗马尼亚,Romania,965011,14499,0,6144,876,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,马达加斯加,Madagascar,马达加斯加,Madagascar,984005,193,0,101,0,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,南非,South Africa,南非,South Africa,984011,8232,0,3153,161,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,黑山,NA,黑山,NA,965018,324,0,265,8,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,赞比亚共和国,NA,赞比亚共和国,NA,0,153,0,103,4,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-亚洲,Asia,卡塔尔,Qatar,卡塔尔,Qatar,955015,18890,0,2286,12,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-亚洲,Asia,沙特阿拉伯,Saudi Arabia,沙特阿拉伯,Saudi Arabia,955016,33731,0,7798,219,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,梵蒂冈,Status Civitatis Vaticanae,梵蒂冈,Status Civitatis Vaticanae,965017,12,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-南美洲,South America,法属圭亚那,French Guiana,法属圭亚那,French Guiana,0,138,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-大洋洲,Oceania,北马里亚纳群岛联邦,NA,北马里亚纳群岛联邦,NA,0,15,0,0,2,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,拉脱维亚,Latvia,拉脱维亚,Latvia,964003,909,0,105,18,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,卢森堡,Luxembourg,卢森堡,Luxembourg,961004,3859,0,3379,100,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,阿尔及利亚,Algeria,阿尔及利亚,Algeria,981001,5182,0,2323,483,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,开曼群岛,Cayman Is,开曼群岛,Cayman Is,0,78,0,0,2,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,多米尼加,Dominican Republic,多米尼加,Dominican Republic,974006,8807,0,993,362,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,古巴,Cuba,古巴,Cuba,974004,1703,0,525,69,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,吉布提,Djibouti,吉布提,Djibouti,985002,1133,0,799,3,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,意大利,Italy,意大利,Italy,965008,215858,0,96276,29958,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,几内亚比绍,NA,几内亚比绍,NA,982008,508,0,19,2,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,阿尔巴尼亚,Albania,阿尔巴尼亚,Albania,965001,842,0,605,31,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,挪威,Norway,挪威,Norway,962004,8015,0,0,217,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,奥地利,Austria,奥地利,Austria,963001,15665,0,13228,609,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,埃塞俄比亚,Ethiopia,埃塞俄比亚,Ethiopia,985004,187,0,93,4,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,丹麦,Denmark,丹麦,Denmark,962001,10083,0,6987,514,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,肯尼亚,Kenya,肯尼亚,Kenya,985005,607,0,197,29,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-北美洲,North America,巴哈马,Bahamas,巴哈马,Bahamas,974002,89,0,0,11,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-非洲,Africa,马里,Mali,马里,Mali,982010,650,0,271,32,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,波兰,Poland,波兰,Poland,963006,15047,0,4862,755,NA,NA,NA,NA,NA,NA,NA,2020-05-08T02:02:21Z
-欧洲,Europe,乌克兰,Ukraine,乌克兰,Ukraine,964007,13184,0,2097,327,NA,NA,NA,NA,NA,NA,NA,2020-05-08T01:02:32Z
 亚洲,Asia,中国,China,山东省,Shandong,370000,788,14,776,7,青岛,Qingdao,65,0,61,1,370200,2020-05-08T01:02:32Z
 亚洲,Asia,中国,China,山东省,Shandong,370000,788,14,776,7,境外输入,NA,25,14,23,0,0,2020-05-08T01:02:32Z
 亚洲,Asia,中国,China,山东省,Shandong,370000,788,14,776,7,济宁,Jining,260,0,260,0,370800,2020-05-08T01:02:32Z
@@ -183,24 +332,6 @@ continentName,continentEnglishName,countryName,countryEnglishName,provinceName,p
 亚洲,Asia,中国,China,山东省,Shandong,370000,788,14,776,7,菏泽,Heze,18,0,18,0,371700,2020-05-08T01:02:32Z
 亚洲,Asia,中国,China,山东省,Shandong,370000,788,14,776,7,日照,Rizhao,16,0,16,0,371100,2020-05-08T01:02:32Z
 亚洲,Asia,中国,China,山东省,Shandong,370000,788,14,776,7,滨州,Binzhou,15,0,15,0,371600,2020-05-08T01:02:32Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,朝阳区,Chaoyang District,75,0,0,0,110105,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,海淀区,Haidian District,64,0,0,0,110108,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,西城区,Xicheng District,53,0,0,0,110102,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,丰台区,Fengtai District,43,0,3,0,110106,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,大兴区,Daxing District,39,0,16,0,110115,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,外地来京,NA,25,0,2,0,0,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,境外输入,NA,174,3,153,0,0,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,昌平区,Changping District,29,0,10,0,110114,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,通州区,Tongzhou District,19,0,1,0,110112,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,房山区,Fangshan District,16,0,3,0,110111,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,东城区,Dongcheng District,14,0,1,0,110101,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,怀柔区,Huairou District,7,0,0,0,110116,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,密云区,Miyun District,7,0,0,0,110118,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,石景山区,Shijingshan District,14,0,9,0,110107,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,门头沟区,Mentougou District,3,0,2,0,110109,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,延庆区,Yanqing District,1,0,0,0,110119,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,顺义区,Shunyi District,10,0,10,0,110113,2020-05-08T00:52:14Z
-亚洲,Asia,中国,China,北京市,Beijing,110000,593,164,560,9,待明确地区,Area not defined,0,0,350,9,0,2020-05-08T00:52:14Z
 亚洲,Asia,中国,China,江苏省,Jiangsu,320000,653,3,652,0,境外输入,NA,22,0,21,0,0,2020-05-08T00:50:13Z
 亚洲,Asia,中国,China,江苏省,Jiangsu,320000,653,3,652,0,南京,Nanjing,93,0,93,0,320100,2020-05-08T00:50:13Z
 亚洲,Asia,中国,China,江苏省,Jiangsu,320000,653,3,652,0,苏州,Suzhou,87,0,87,0,320500,2020-05-08T00:50:13Z
@@ -215,67 +346,6 @@ continentName,continentEnglishName,countryName,countryEnglishName,provinceName,p
 亚洲,Asia,中国,China,江苏省,Jiangsu,320000,653,3,652,0,扬州,Yangzhou,23,0,23,0,321000,2020-05-08T00:50:13Z
 亚洲,Asia,中国,China,江苏省,Jiangsu,320000,653,3,652,0,宿迁,Suqian,13,0,13,0,321300,2020-05-08T00:50:13Z
 亚洲,Asia,中国,China,江苏省,Jiangsu,320000,653,3,652,0,镇江,Zhenjiang,12,0,12,0,321100,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,境外输入,NA,63,0,26,0,0,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,西安,Xi'an,120,0,117,3,610100,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,安康,Ankang,26,0,26,0,610900,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,汉中,Hanzhong,26,0,26,0,610700,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,咸阳,Xianyang,17,0,17,0,610400,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,渭南,Weinan,15,0,15,0,610500,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,宝鸡,Baoji,13,0,13,0,610300,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,延安,Yan'an,8,0,8,0,610600,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,铜川,Tongchuan,8,0,8,0,610200,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,商洛,Shangluo,7,0,7,0,611000,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,榆林,Yulin,3,0,3,0,610800,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,韩城,Hancheng,1,0,1,0,610581,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,陕西省,Shaanxi,610000,308,1,268,3,杨凌,Yangling District in Xianyang,1,0,1,0,0,2020-05-08T00:50:13Z
-亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,104,1,吉林市,Jilin,18,12,11,0,220200,2020-05-08T00:36:02Z
-亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,104,1,长春,Changchun,49,1,48,0,220100,2020-05-08T00:36:02Z
-亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,104,1,四平市,Siping,15,0,14,1,220300,2020-05-08T00:36:02Z
-亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,104,1,辽源,Liaoyuan,7,0,7,0,220400,2020-05-08T00:36:02Z
-亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,104,1,延边,Yanbian,7,1,7,0,222400,2020-05-08T00:36:02Z
-亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,104,1,公主岭,Gongzhuling,6,0,6,0,220381,2020-05-08T00:36:02Z
-亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,104,1,通化,Tonghua,6,0,6,0,220500,2020-05-08T00:36:02Z
-亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,104,1,松原,Songyuan,2,0,2,0,220700,2020-05-08T00:36:02Z
-亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,104,1,梅河口,Meihekou,2,0,2,0,220581,2020-05-08T00:36:02Z
-亚洲,Asia,中国,China,吉林省,Jilin,220000,113,19,104,1,白城,Baicheng,1,0,1,0,220800,2020-05-08T00:36:02Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,境外输入,NA,386,386,297,0,0,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,哈尔滨,Harbin,263,8,237,4,230100,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,牡丹江,Mudanjiang,25,0,20,0,231000,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,双鸭山,Shuangyashan,52,0,49,3,230500,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,绥化,Suihua,47,0,43,4,231200,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,鸡西,Jixi,46,0,46,0,230300,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,齐齐哈尔,Qiqihar,43,0,42,1,230200,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,大庆,Daqing,27,0,26,1,230600,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,七台河,Qitaihe,17,0,17,0,230900,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,佳木斯,Jiamusi,15,0,15,0,230800,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,黑河,Heihe,14,0,14,0,231100,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,鹤岗,Hegang,5,0,5,0,230400,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,大兴安岭,Daxinganling,3,0,3,0,232700,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,黑龙江省,Heilongjiang,230000,944,394,815,13,伊春,Yichun,1,0,1,0,230700,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,境外输入人员,NA,124,34,97,0,0,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,呼伦贝尔,Hulunbuir,9,0,8,0,150700,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,鄂尔多斯,Ordos,11,0,11,0,150600,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,包头,Baotou,11,0,11,0,150200,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,赤峰,Chifeng,9,0,9,0,150400,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,锡林郭勒盟,Linguolexi,9,0,9,0,152500,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,巴彦淖尔,Bayannur,8,0,7,1,150800,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,呼和浩特,Hohhot,7,0,7,0,150100,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,通辽,Tongliao,7,0,7,0,150500,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,乌兰察布,Ulanqab,3,0,3,0,150900,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,乌海市,Wuhai,2,0,2,0,150300,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,内蒙古自治区,Neimenggu,150000,201,34,172,1,兴安盟,Xinganmeng,1,0,1,0,152200,2020-05-08T00:23:52Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,境外输入,NA,64,64,62,0,0,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,太原,Taiyuan,21,0,20,0,140100,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,晋中,Jinzhong,37,0,37,0,140700,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,运城,Yuncheng,19,0,19,0,140800,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,大同,Datong,12,0,12,0,140200,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,晋城,Jincheng,10,0,10,0,140500,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,长治,Changzhi,8,0,8,0,140400,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,朔州,Shuozhou,8,0,8,0,140600,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,忻州,Xinzhou,7,0,7,0,140900,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,吕梁,Lüliang,6,0,6,0,141100,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,阳泉,Yangquan,4,0,4,0,140300,2020-05-08T00:06:39Z
-亚洲,Asia,中国,China,山西省,Shanxi,140000,198,64,195,0,临汾,Linfen,2,0,2,0,141000,2020-05-08T00:06:39Z
 亚洲,Asia,中国,China,云南省,Yunnan,530000,185,0,182,2,境外输入,NA,11,0,10,0,0,2020-05-08T00:06:39Z
 亚洲,Asia,中国,China,云南省,Yunnan,530000,185,0,182,2,昆明,Kunming,53,0,53,0,530100,2020-05-08T00:06:39Z
 亚洲,Asia,中国,China,云南省,Yunnan,530000,185,0,182,2,昭通,Zhaotong,25,0,25,0,530600,2020-05-08T00:06:39Z
@@ -291,57 +361,8 @@ continentName,continentEnglishName,countryName,countryEnglishName,provinceName,p
 亚洲,Asia,中国,China,云南省,Yunnan,530000,185,0,182,2,楚雄州,Chuxiong,4,0,4,0,0,2020-05-08T00:06:39Z
 亚洲,Asia,中国,China,云南省,Yunnan,530000,185,0,182,2,文山州,Wenshan,2,0,2,0,0,2020-05-08T00:06:39Z
 亚洲,Asia,中国,China,云南省,Yunnan,530000,185,0,182,2,临沧,Lincang,1,0,1,0,530900,2020-05-08T00:06:39Z
-亚洲,Asia,柬埔寨,Kampuchea (Cambodia ),柬埔寨,Kampuchea (Cambodia ),952003,122,0,50,0,NA,NA,NA,NA,NA,NA,NA,2020-05-08T00:03:37Z
-北美洲,North America,百慕大,NA,百慕大,NA,0,115,0,0,7,NA,NA,NA,NA,NA,NA,NA,2020-05-08T00:03:37Z
-北美洲,North America,特立尼达和多巴哥,Trinidad and Tobago,特立尼达和多巴哥,Trinidad and Tobago,974013,116,0,0,8,NA,NA,NA,NA,NA,NA,NA,2020-05-08T00:03:37Z
-北美洲,North America,阿鲁巴,NA,阿鲁巴,NA,0,101,0,0,2,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:54:24Z
-非洲,Africa,毛里求斯,Mauritius,毛里求斯,Mauritius,984014,332,0,319,10,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:54:24Z
-非洲,Africa,乍得,Chad,乍得,Chad,982003,170,0,0,17,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:54:24Z
-亚洲,Asia,伊拉克,Iraq,伊拉克,Iraq,955008,2480,0,1602,102,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-亚洲,Asia,尼泊尔,Nepal,尼泊尔,Nepal,953005,99,0,22,0,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-欧洲,Europe,泽西岛,Bailiwick of Jersey,泽西岛,Bailiwick of Jersey,0,293,0,0,24,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-大洋洲,Oceania,法属波利尼西亚,French Polynesia,法属波利尼西亚,French Polynesia,0,60,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-亚洲,Asia,叙利亚,Syria,叙利亚,Syria,955017,45,0,27,3,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-欧洲,Europe,直布罗陀,Gibraltar,直布罗陀,Gibraltar,0,144,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-非洲,Africa,刚果（布）,NA,刚果（布）,NA,0,264,0,26,10,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-亚洲,Asia,也门共和国,NA,也门共和国,NA,0,26,0,1,6,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-非洲,Africa,安哥拉,Angola,安哥拉,Angola,984001,36,0,11,2,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-北美洲,North America,英属维尔京群岛,NA,英属维尔京群岛,NA,0,7,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-南美洲,South America,哥伦比亚,Colombia,哥伦比亚,Colombia,973005,8959,0,1210,397,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-亚洲,Asia,蒙古,Mongolia,蒙古,Mongolia,0,41,0,10,0,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-非洲,Africa,利比亚,Libya,利比亚,Libya,981003,64,0,24,3,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-北美洲,North America,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,圣文森特和格林纳丁斯,Saint Vincent and the Grenadines,974012,17,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-北美洲,North America,巴巴多斯,Barbados,巴巴多斯,Barbados,974003,82,0,0,7,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-非洲,Africa,马约特,NA,马约特,NA,0,739,0,0,9,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-欧洲,Europe,法罗群岛,Faroe,法罗群岛,Faroe,0,187,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-非洲,Africa,马拉维,Malawi,马拉维,Malawi,984006,43,0,9,3,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-非洲,Africa,喀麦隆,Cameroon,喀麦隆,Cameroon,983001,2265,0,1000,108,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-南美洲,South America,圭亚那,Guyana,圭亚那,Guyana,973007,93,0,27,10,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-欧洲,Europe,塞尔维亚,Republic of Serbia,塞尔维亚,Republic of Serbia,965013,10533,0,1971,227,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-北美洲,North America,圣卢西亚,St.Lucia,圣卢西亚,St.Lucia,974011,18,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
 北美洲,North America,格林那达,NA,格林那达,NA,0,21,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
 北美洲,North America,安提瓜和巴布达,Antigua and Barbuda,安提瓜和巴布达,Antigua and Barbuda,974001,25,0,0,3,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-北美洲,North America,荷属圣马丁,NA,荷属圣马丁,NA,0,76,0,0,14,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-非洲,Africa,留尼旺,Reunion,留尼旺,Reunion,0,425,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-非洲,Africa,利比里亚,Liberia,利比里亚,Liberia,982009,178,0,75,20,NA,NA,NA,NA,NA,NA,NA,2020-05-07T23:34:09Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,境外输入,NA,318,4,291,0,0,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,外地来沪,NA,111,0,110,1,0,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,浦东新区,Pudong District,61,0,60,1,310115,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,宝山区,Baoshan District,22,0,21,1,310113,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,闵行区,Minhang District,19,0,19,0,310112,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,徐汇区,Xuhui District,18,0,17,1,310104,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,静安区,Jing'an District,16,0,15,1,310106,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,松江区,Songjiang District,14,0,14,0,310117,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,长宁区,Changning District,13,0,13,0,310105,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,普陀区,Putuo District,11,0,11,0,310107,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,杨浦区,Yangpu District,9,0,9,0,310110,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,嘉定区,Jiading District,9,0,7,2,310114,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,奉贤区,Fengxian District,9,0,9,0,310120,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,虹口区,Hongkou District,7,0,7,0,310109,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,黄浦区,Huangpu District,6,0,6,0,310101,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,青浦区,Qingpu District,6,0,6,0,310118,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,金山区,Jinshan District,4,0,4,0,310116,2020-05-07T12:15:22Z
-亚洲,Asia,中国,China,上海市,Shanghai,310000,657,300,623,7,崇明区,Chongming District,4,0,4,0,310151,2020-05-07T12:15:22Z
 亚洲,Asia,中国,China,福建省,Fujian,350000,356,3,354,1,境外输入人员,NA,60,1,59,0,0,2020-05-07T00:45:53Z
 亚洲,Asia,中国,China,福建省,Fujian,350000,356,3,354,1,福州,Fuzhou,72,0,71,1,350100,2020-05-07T00:45:53Z
 亚洲,Asia,中国,China,福建省,Fujian,350000,356,3,354,1,莆田,Putian,56,0,56,0,350300,2020-05-07T00:45:53Z
@@ -352,36 +373,15 @@ continentName,continentEnglishName,countryName,countryEnglishName,provinceName,p
 亚洲,Asia,中国,China,福建省,Fujian,350000,356,3,354,1,南平,Nanping,20,0,20,0,350700,2020-05-07T00:45:53Z
 亚洲,Asia,中国,China,福建省,Fujian,350000,356,3,354,1,三明,Sanming,14,0,14,0,350400,2020-05-07T00:45:53Z
 亚洲,Asia,中国,China,福建省,Fujian,350000,356,3,354,1,龙岩,Longyan,6,0,6,0,350800,2020-05-07T00:45:53Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,广州,Guangzhou,505,4,501,1,440100,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,佛山,Foshan,100,1,98,0,440600,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,深圳,Shenzhen,462,1,458,3,440300,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,珠海,Zhuhai,103,1,102,1,440400,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,东莞,Dongguan,100,0,99,1,441900,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,中山,Zhongshan,69,0,69,0,442000,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,惠州,Huizhou,62,0,62,0,441300,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,汕头,Shantou,26,0,26,0,440500,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,江门,Jiangmen,24,0,24,0,440700,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,湛江,Zhanjiang,24,2,24,0,440800,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,肇庆,Zhaoqing,20,0,19,1,441200,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,梅州,Meizhou,17,0,17,0,441400,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,阳江,Yangjiang,14,0,14,0,441700,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,茂名,Maoming,14,0,14,0,440900,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,清远,Qingyuan,12,0,12,0,441800,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,揭阳,Jieyang,11,0,11,0,445200,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,韶关,Shaoguan,10,0,9,1,440200,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,潮州,Chaozhou,6,0,6,0,445100,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,汕尾,Shanwei,5,0,5,0,441500,2020-05-07T00:31:44Z
-亚洲,Asia,中国,China,广东省,Guangdong,440000,1589,11,1575,8,河源,Heyuan,5,0,5,0,441600,2020-05-07T00:31:44Z
 亚洲,Asia,中国,China,澳门,Macau,820000,45,9,40,0,NA,NA,NA,NA,NA,NA,NA,2020-05-07T00:22:37Z
-北美洲,North America,美属维尔京群岛,NA,美属维尔京群岛,NA,0,66,0,0,4,NA,NA,NA,NA,NA,NA,NA,2020-05-06T23:29:51Z
-非洲,Africa,冈比亚,Gambia,冈比亚,Gambia,982005,17,0,2,1,NA,NA,NA,NA,NA,NA,NA,2020-05-06T23:29:51Z
 非洲,Africa,津巴布韦,Zimbabwe,津巴布韦,Zimbabwe,984013,34,0,5,4,NA,NA,NA,NA,NA,NA,NA,2020-05-06T23:29:51Z
 非洲,Africa,布隆迪共和国,NA,布隆迪共和国,NA,0,19,0,4,1,NA,NA,NA,NA,NA,NA,NA,2020-05-06T23:29:51Z
-非洲,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,982012,8,0,6,1,NA,NA,NA,NA,NA,NA,NA,2020-05-06T11:54:39Z
+北美洲,North America,美属维尔京群岛,NA,美属维尔京群岛,NA,0,66,0,0,4,NA,NA,NA,NA,NA,NA,NA,2020-05-06T23:29:51Z
 非洲,Africa,博茨瓦纳,Botswana,博茨瓦纳,Botswana,984002,23,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-06T11:54:39Z
-北美洲,North America,库拉索岛,NA,库拉索岛,NA,0,16,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-05T06:37:10Z
+非洲,Africa,毛里塔尼亚,The Islamic Republic of Mauritania,毛里塔尼亚,The Islamic Republic of Mauritania,982012,8,0,6,1,NA,NA,NA,NA,NA,NA,NA,2020-05-06T11:54:39Z
 北美洲,North America,特克斯和凯科斯群岛,NA,特克斯和凯科斯群岛,NA,0,12,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-05T06:37:10Z
 南美洲,South America,荷兰加勒比地区,NA,荷兰加勒比地区,NA,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-05-05T06:37:10Z
+北美洲,North America,库拉索岛,NA,库拉索岛,NA,0,16,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-05-05T06:37:10Z
 亚洲,Asia,中国,China,河北省,Hebei,130000,328,0,320,6,境外输入,NA,10,0,8,0,0,2020-05-05T01:37:13Z
 亚洲,Asia,中国,China,河北省,Hebei,130000,328,0,320,6,唐山,Tangshan,58,0,57,1,130200,2020-05-05T01:37:13Z
 亚洲,Asia,中国,China,河北省,Hebei,130000,328,0,320,6,沧州,Cangzhou,48,0,45,3,130900,2020-05-05T01:37:13Z
@@ -423,28 +423,28 @@ continentName,continentEnglishName,countryName,countryEnglishName,provinceName,p
 亚洲,Asia,中国,China,辽宁省,Liaoning,210000,146,0,144,2,辽阳,Liaoyang,3,0,3,0,211000,2020-05-02T01:10:41Z
 亚洲,Asia,中国,China,辽宁省,Liaoning,210000,146,0,144,2,营口,Yingkou,1,0,1,0,210800,2020-05-02T01:10:41Z
 亚洲,Asia,中国,China,辽宁省,Liaoning,210000,146,0,144,2,抚顺,Fushun,1,0,1,0,210400,2020-05-02T01:10:41Z
-亚洲,Asia,东帝汶,NA,东帝汶,NA,952004,24,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-30T11:09:45Z
 北美洲,North America,蒙特塞拉特,NA,蒙特塞拉特,NA,0,11,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-04-30T11:09:45Z
-欧洲,Europe,列支敦士登,Liechtenstein,列支敦士登,Liechtenstein,963005,83,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-04-30T11:09:45Z
-北美洲,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,0,38,0,0,3,NA,NA,NA,NA,NA,NA,NA,2020-04-30T11:09:45Z
 南美洲,South America,福克兰群岛,NA,福克兰群岛,NA,0,13,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-30T11:09:45Z
-大洋洲,Oceania,巴布亚新几内亚,Papua New Guinea,巴布亚新几内亚,Papua New Guinea,990009,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-亚洲,Asia,老挝,Laos,老挝,Laos,952006,19,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-欧洲,Europe,摩纳哥,Monaco,摩纳哥,Monaco,961005,98,0,3,3,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-大洋洲,Oceania,斐济,Fiji,斐济,Fiji,990002,18,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-南美洲,South America,苏里南,Suriname,苏里南,Suriname,973010,10,0,6,1,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-北美洲,North America,多米尼克,NA,多米尼克,NA,974005,16,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-非洲,Africa,塞舌尔,Seychelles,塞舌尔,Seychelles,985007,11,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-非洲,Africa,厄立特里亚,NA,厄立特里亚,NA,985003,39,0,6,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+欧洲,Europe,列支敦士登,Liechtenstein,列支敦士登,Liechtenstein,963005,83,0,0,1,NA,NA,NA,NA,NA,NA,NA,2020-04-30T11:09:45Z
+亚洲,Asia,东帝汶,NA,东帝汶,NA,952004,24,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-30T11:09:45Z
+北美洲,North America,圣马丁岛,Sint Maarten,圣马丁岛,Sint Maarten,0,38,0,0,3,NA,NA,NA,NA,NA,NA,NA,2020-04-30T11:09:45Z
 大洋洲,Oceania,新喀里多尼亚,NA,新喀里多尼亚,NA,0,18,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-亚洲,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,953002,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
 北美洲,North America,伯利兹,Belize,伯利兹,Belize,972001,18,0,0,2,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
 北美洲,North America,圣其茨和尼维斯,NA,圣其茨和尼维斯,NA,0,15,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-非洲,Africa,纳米比亚,Namibia,纳米比亚,Namibia,984009,16,0,3,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-北美洲,North America,圣巴泰勒米岛,NA,圣巴泰勒米岛,NA,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-北美洲,North America,格陵兰,NA,格陵兰,NA,0,11,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
-北美洲,North America,安圭拉,NA,安圭拉,NA,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+非洲,Africa,塞舌尔,Seychelles,塞舌尔,Seychelles,985007,11,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+非洲,Africa,厄立特里亚,NA,厄立特里亚,NA,985003,39,0,6,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+大洋洲,Oceania,斐济,Fiji,斐济,Fiji,990002,18,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
 北美洲,North America,圣皮埃尔和密克隆群岛,NA,圣皮埃尔和密克隆群岛,NA,0,1,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+北美洲,North America,格陵兰,NA,格陵兰,NA,0,11,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+亚洲,Asia,老挝,Laos,老挝,Laos,952006,19,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+北美洲,North America,安圭拉,NA,安圭拉,NA,0,3,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+亚洲,Asia,不丹,Kingdom of Bhutan,不丹,Kingdom of Bhutan,953002,7,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+北美洲,North America,多米尼克,NA,多米尼克,NA,974005,16,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+北美洲,North America,圣巴泰勒米岛,NA,圣巴泰勒米岛,NA,0,6,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+非洲,Africa,纳米比亚,Namibia,纳米比亚,Namibia,984009,16,0,3,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+南美洲,South America,苏里南,Suriname,苏里南,Suriname,973010,10,0,6,1,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+欧洲,Europe,摩纳哥,Monaco,摩纳哥,Monaco,961005,98,0,3,3,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
+大洋洲,Oceania,巴布亚新几内亚,Papua New Guinea,巴布亚新几内亚,Papua New Guinea,990009,8,0,0,0,NA,NA,NA,NA,NA,NA,NA,2020-04-29T11:38:02Z
 亚洲,Asia,中国,China,湖北省,Hubei,420000,68128,0,63616,4512,武汉,Wuhan,50333,0,46464,3869,420100,2020-04-27T01:18:19Z
 亚洲,Asia,中国,China,湖北省,Hubei,420000,68128,0,63616,4512,孝感,Xiaogan,3518,0,3389,129,420900,2020-04-27T01:18:19Z
 亚洲,Asia,中国,China,湖北省,Hubei,420000,68128,0,63616,4512,黄冈,Huanggang,2907,0,2782,125,421100,2020-04-27T01:18:19Z
