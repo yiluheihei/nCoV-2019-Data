@@ -4,8 +4,8 @@ on:
   push:
   watch:
     types: [started]
-  schedule:
-    - cron: '10 0,10 * * *'
+  # schedule:
+  #   - cron: '10 0,10 * * *'
 
 jobs:
   build:
